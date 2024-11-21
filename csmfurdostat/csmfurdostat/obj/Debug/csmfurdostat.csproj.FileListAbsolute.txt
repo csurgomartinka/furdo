@@ -1,0 +1,7 @@
+C:\Users\diak\source\repos\csmfurdostat\csmfurdostat\bin\Debug\csmfurdostat.exe.config
+C:\Users\diak\source\repos\csmfurdostat\csmfurdostat\bin\Debug\csmfurdostat.exe
+C:\Users\diak\source\repos\csmfurdostat\csmfurdostat\bin\Debug\csmfurdostat.pdb
+C:\Users\diak\source\repos\csmfurdostat\csmfurdostat\obj\Debug\csmfurdostat.csproj.AssemblyReference.cache
+C:\Users\diak\source\repos\csmfurdostat\csmfurdostat\obj\Debug\csmfurdostat.csproj.CoreCompileInputs.cache
+C:\Users\diak\source\repos\csmfurdostat\csmfurdostat\obj\Debug\csmfurdostat.exe
+C:\Users\diak\source\repos\csmfurdostat\csmfurdostat\obj\Debug\csmfurdostat.pdb
